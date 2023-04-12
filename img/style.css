@@ -1,0 +1,76 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    margin: 4;
+    padding: 4;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 47px 246px 47px;
+}
+main{
+    display: block;
+    margin-left: 82px;
+}
+
+.covorage {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.875px;
+    color: #17233D;
+    cursor: pointer;
+    margin-right: 32px;
+    cursor: pointer;
+}
+
+.Button {
+
+    background: #6FBF44;
+    border: none;
+    border-radius:6px;
+    width: 124px;
+    height: 51px;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+
+}
+
+.wide {
+    font-weight: 700;
+    font-size: 62px;
+    line-height:82px;
+    letter-spacing:0.596154px;
+    color: #161A49;
+}
+
+.paragrafo {
+    font-weight: 400;
+    font-size: 18px;
+    line-height:33px;
+    letter-spacing:0.5px;
+    color: #4B505A;
+
+}
+
+.More {
+    width: 112px;
+    height: 27px;
+    top: 707px;
+    left: 801px;
+    border: none;
+    color: 
+    #6FBF44;
+}
+
+.logo-image {
+    margin: 163px 0 0.123px;
+    width: 595.18px;
+    height: 500px;
+
+}
